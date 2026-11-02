@@ -4,6 +4,7 @@ export default function Skills() {
   <h2>{"Skills"}</h2>
   <div className="skill-grid">
     <span className="skill-tag featured">{"Node.js"}</span>
+    <span className="skill-tag featured">{"React.js"}</span>
     <span className="skill-tag featured">{"TypeScript"}</span>
     <span className="skill-tag featured">{"NestJS"}</span>
     <span className="skill-tag featured">{"Express.js"}</span>
@@ -21,6 +22,8 @@ export default function Skills() {
     <span className="skill-tag">{"Client & Stakeholder Management"}</span>
     <span className="skill-tag">{"Agile / JIRA"}</span>
     <span className="skill-tag">{"Laravel (PHP)"}</span>
+     <span className="skill-tag">{"Html"}</span>
+     <span className="skill-tag">{"Css"}</span>
   </div>
 </section>
   );
